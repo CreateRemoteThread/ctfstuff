@@ -1,2 +1,3 @@
 # ctfstuff
-مادۆنال
+
+I'm dumping some CTF stuff here.
